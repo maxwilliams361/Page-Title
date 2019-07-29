@@ -1,0 +1,39 @@
+.heading{
+  display:flex;
+  justify-content:center;
+}
+.subheading{
+    display:flex;
+    justify-content:center;
+}
+.tesoro{
+    width:450px;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    
+}
+.buttonone{
+   display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+.hover{
+    display:none;
+}
+.serena{
+    display:none;
+    width:450px;
+}
+.clickheader{
+    display:none;
+}
+.sharapova{
+    display:none;
+}
+.spoil{
+    display:none;
+}
+.treasure{
+    display:none;
+}
