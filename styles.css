@@ -1,10 +1,15 @@
+body{
+    background-color:#7FFF00;
+}
 .heading{
   display:flex;
   justify-content:center;
+  font-family:'Courgette','cursive';
 }
 .subheading{
     display:flex;
     justify-content:center;
+    font-family:'Courgette','cursive';
 }
 .tesoro{
     width:450px;
@@ -37,3 +42,5 @@
 .treasure{
     display:none;
 }
+
+    
