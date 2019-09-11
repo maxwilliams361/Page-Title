@@ -23,4 +23,14 @@ $(".tesoro").click(function(){
     $(".spoil").show();
     $(".subheading").text("FAT CHANCE!");
 });
-    
+    $(".tesoro").click(function(){
+        $(".sharapova").css('display','block');
+        $(".sharapova").css('margin-left','auto');
+        $(".sharapova").css('margin-right','auto');
+        $(".subheading").css('font-family','Bangers');
+        $(".spoil").css('font-family','Bangers');
+        $(".spoil").css('display','flex');
+        $(".spoil").css('justify-content','center');
+        $("body").css('background-color','red');
+        $(".heading").hide();
+    });
